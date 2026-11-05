@@ -7,11 +7,11 @@ I am a Health Systems Management graduate interested in using technology and dat
 
 My work and learning journey sit at the intersection of public health, data analytics, digital health and artificial intelligence.
 
-- 🔭 Currently exploring health data analytics and AI-powered solutions.
-- 🌱 Learning and building with Python, SQL and Power BI.
-- 🧠 Interested in machine learning, predictive analytics and health informatics.
-- 💻 Building practical projects that connect technology with real-world problems.
-- 🤝 Open to collaborations, research support and project-based opportunities.
+-  Currently exploring health data analytics and AI-powered solutions.
+-  Learning and building with Python, SQL and Power BI.
+-  Interested in machine learning, predictive analytics and health informatics.
+-  Building practical projects that connect technology with real-world problems.
+-  Open to collaborations, research support and project-based opportunities.
 
 ### 🛠️ Technologies & Tools
 
