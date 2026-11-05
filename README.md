@@ -1,17 +1,37 @@
+# Hi, I'm Idah 👋🏽
 
-# Hi, I'm Idah 👋
+### Health Systems | Data & AI | Digital Health
 
-### Health systems enthusiast | Exploring data, AI & digital health.
+I'm a Health Systems Management graduate interested in how data, technology and artificial intelligence can help address real-world health challenges.
 
-I am a Health Systems Management graduate interested in using technology and data to solve real-world healthcare challenges.
+My interests include health data analytics, machine learning, digital health systems and research. I enjoy exploring problems at the intersection of healthcare and technology, learning through hands-on projects and collaborating with others to build practical solutions.
 
-My work and learning journey sit at the intersection of public health, data analytics, digital health and artificial intelligence.
+### Currently Learning
+- SQL and database management
+- Data visualization and Power BI
+- AI applications in healthcare
 
--  Currently exploring health data analytics and AI-powered solutions.
--  Learning and building with Python, SQL and Power BI.
--  Interested in machine learning, predictive analytics and health informatics.
--  Building practical projects that connect technology with real-world problems.
--  Open to collaborations, research support and project-based opportunities.
+###  Areas of Interest
+- Health informatics and HMIS
+- Predictive analytics and machine learning
+- Digital health innovation
+- Public health research and data analysis
+
+### Selected Projects
+
+**Health Data & Machine Learning**
+
+- **ART Risk Prediction:** Exploratory machine-learning projects and Streamlit dashboards focused on risk prediction in ART care.
+- **CD4 Risk Dashboard:** A Random Forest classification project exploring immunological suppression risk using proxy clinical features.
+- **AHD Prediction:** A hybrid machine-learning approach presented through a Streamlit dashboard.
+- **Dengue Outbreak Prediction:** An exploratory project focused on outbreak prediction.
+
+**Digital Health & Health Systems**
+
+- **Tumaini Care** — A private digital-health prototype exploring support for adolescents and young people.
+- **StockWhy** — A developing multi-agent system designed to investigate possible causes of medicine stock-outs and draft corrective actions for human review. Uses synthetic data for its current evaluation.
+
+- **Miki Payment** — Collaborative work on a Rust-based Bitcoin payment for the visually imapired through audio and haptic vibration features.
 
 ### 🛠️ Technologies & Tools
 
@@ -28,23 +48,21 @@ My work and learning journey sit at the intersection of public health, data anal
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🚀 Projects I'm Proud Of
+ **Additional project exposure**
 
-- **Tumaini Care** – A digital health prototype focused on supporting adolescents and young people.
-- **StockWhy** – A project exploring data-driven investigation of health commodity stock discrepancies.
-- **MIKI** - 
+Rust · Axum · SQLx · BTCPay Server
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Idah12-07&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Idah12-07&layout=compact&theme=tokyonight)
+### 🤝 Open to
+- Health data and research collaborations
+- Data analysis and data cleaning opportunities
+- Digital health projects
+- AI-related health content review and evaluation
+- Learning and contributing to open-source projects
 
 ### 🌍 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/idah-anyango)
 - [GitHub](https://github.com/Idah12-07)
 
----
 
 *Learning, building and growing — one project at a time.*
