@@ -33,7 +33,7 @@ My interests include health data analytics, machine learning, digital health sys
 
 - **Miki Payment** — Collaborative work on a Rust-based Bitcoin payment for the visually imapired through audio and haptic vibration features.
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 **Data & Analytics**
 
@@ -52,14 +52,14 @@ My interests include health data analytics, machine learning, digital health sys
 
 Rust · Axum · SQLx · BTCPay Server
 
-### 🤝 Open to
+###  Open to
 - Health data and research collaborations
 - Data analysis and data cleaning opportunities
 - Digital health projects
 - AI-related health content review and evaluation
 - Learning and contributing to open-source projects
 
-### 🌍 Let's Connect
+###  Let's Connect:
 
 - [LinkedIn](https://www.linkedin.com/in/idah-anyango)
 - [GitHub](https://github.com/Idah12-07)
